@@ -7,5 +7,6 @@ namespace Education
     {
         [DataMember]
         public string SchoolClassId { get; set; }
+
     }
 }
